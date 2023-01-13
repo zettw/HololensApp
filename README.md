@@ -10,4 +10,4 @@ Create a basic Hololens setup on Unity
  - Explode view function
  - Toggle Button to activate/deactive the explode view
 
-![](https://github.com/zettw/HololensUnity/blob/main/Media/1-explode.gif)
+![](https://github.com/zettw/HololensApp/blob/main/Media/1-explode.gif)
