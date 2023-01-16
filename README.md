@@ -13,8 +13,8 @@ Create a basic Hololens setup on Unity
 ![](https://github.com/zettw/HololensApp/blob/main/Media/1-explode.gif)
 
 ## Scene 2: Bus Engine
- - Explode view of main system and sub system
- - Activate/deactive the explode view by interacting of the 3D model parts
+ - Explode view of main parts and sub-parts
+ - Activate/deactivate the explode view by interacting with the 3D model parts
  - Tooltip on hover
 
 ![](https://github.com/zettw/HololensApp/blob/main/Media/2-busengine.gif)
